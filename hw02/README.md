@@ -1,3 +1,5 @@
+# Číselná řada #
+---
 Úkolem je vytvořit program, který bude rozebírat sekvenci čísel.
 
 Předpokládáme sekvenci nezáporných celých čísel (0, 1, 2, ...). Sekvence začíná číslem 0, jednotlivá čísla jsou zapsaná ve vzestupném pořadí bez vložených mezer a zbytečných nul. Sekvence bude začínat takto:
