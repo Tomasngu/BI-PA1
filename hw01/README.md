@@ -1,3 +1,5 @@
+# Rovinné obrazce #
+
 Úkolem je vytvořit program, který bude porovnávat dvojice geometrických obrazců. Porovná jejich obsah a obvod.
 
 Na vstupu programu je dvojice geometrických obrazců v rovině. Pro každý obrazec je zadaná jeho velikost. Obrazcem může být:
