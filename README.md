@@ -1,4 +1,4 @@
-# Homeworks
+# Homeworks for BI-PA1 course
 
 | Task   | points        |
 |--------|---------------|
