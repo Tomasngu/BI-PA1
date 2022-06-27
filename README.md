@@ -1,5 +1,5 @@
-# Homeworks for BI-PA1 course
-
+# BI-PA1 course
+## Homeworks
 | Task   | points        |
 |--------|---------------|
 | 1. [Rovinné obrazce](hw01/obrazce.c) | 5.50 / 5.00 |
@@ -11,5 +11,9 @@
 |7. [Věže z kostek](hw07/tower.c) | 3.30 / 3.00 |
 |8. [Databáze lidí](hw08/tree.c) | 5.00 / 5.00 |
 
+
+## Summary
+Finished the course with **96.47/100 points**.
+Finished 25. from 902 students.
 
 
