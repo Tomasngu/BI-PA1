@@ -14,6 +14,7 @@
 
 ## Summary
 Finished the course with **96.47/100 points**.
-Finished 25. from 902 students.
+
+Placed 25. from 902 students.
 
 
